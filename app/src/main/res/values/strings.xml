@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapboxGeoJson</string>
+    <string name="access_token">pk.eyJ1IjoiZXhwbG9yaW5ncHJhdGlrIiwiYSI6ImNrNzBhb3VpczBoN3AzZm1sYTcxNTlscmYifQ.BRPNpGXcu5f_ic7vN7B4Mg</string>
+</resources>
